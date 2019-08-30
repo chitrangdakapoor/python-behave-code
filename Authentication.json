@@ -1,0 +1,7 @@
+{
+  "Test":
+        {
+          "Api_Key":  "2d60622c380e25ccd944ab134849a087",
+          "Url" : "https://api.openweathermap.org/data/2.5/weather"
+        }
+}
